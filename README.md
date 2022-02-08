@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Montse-14, I'm 23 years old. I have a university degree in multiplatform software development.
 - 👀 I’m interested in  web development, video games, mobile applications
-- 🌱 I’m currently learning PHP, JAVA, WEB DESIGN...
+- 🌱 I’m currently learning PHP, WEB DESIGN...
 - 📫 How to reach me montseetanzures@gmail.com
 
 <!---
